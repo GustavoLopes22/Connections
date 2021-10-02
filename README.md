@@ -1,3 +1,3 @@
 Arte desenvolvida no estudo de Creative Coding com Javascript.
 
-![Connections](exemple.gif)
+![Connections](exemple.gif)# Connections
